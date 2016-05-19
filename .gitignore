@@ -4,4 +4,7 @@ node_modules
 .gitignore
 .idea
 *.iml
+db.json
+.npmignore
+
 
