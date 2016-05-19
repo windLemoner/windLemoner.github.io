@@ -65,5 +65,11 @@ http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html
   在本地 件夹下通过Git bash依次执行下列指令：npm install hexo、npm install、npm install hexo-deployer-git（记得，不需要**hexo init**这条指令）
 
 
+// 补充一点
+  提示 layout 不存在时可以看下theme git pull 下
+
+
+
+
 
 end
